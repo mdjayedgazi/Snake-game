@@ -10,7 +10,7 @@ screen.title("Snake Game")
 
 screen.tracer(0)
 
-print("mj")
+
 
 snake = Snake()
 food = Food()
