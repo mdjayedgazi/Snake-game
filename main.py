@@ -10,7 +10,7 @@ screen.title("Snake Game")
 
 screen.tracer(0)
 
-snake = SnakeMainVersion()
+snake = Snake()
 food = Food()
 scoreboard = Scoreboard()
 
